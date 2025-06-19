@@ -9,8 +9,7 @@ This Privacy Policy describes how Jethro Bhokosai Adamu ("we," "our," or "us") c
 ## Information We Collect
 
 ### Information Automatically Collected
-- **App Usage Data**: We collect information about your interactions with the app, including lessons completed, progress through different sections, and time spent in the app.
-- **Device Information**: We may collect basic device information such as device type, operating system version, and app version for technical support purposes.
+- **App Usage Data**: We collect information about your lessons completed and progress through different sections.
 
 ### Information You Provide
 - **No Personal Information**: Our app does not require you to create an account or provide personal information such as your name, email address, or phone number.
@@ -19,8 +18,6 @@ This Privacy Policy describes how Jethro Bhokosai Adamu ("we," "our," or "us") c
 
 We use the collected information solely for:
 - **Learning Progress Tracking**: To save your progress through lessons and provide a personalized learning experience
-- **App Functionality**: To ensure the app works properly and provide core features
-- **App Improvement**: To understand how users interact with the app and improve its functionality
 
 ## Data Storage
 
